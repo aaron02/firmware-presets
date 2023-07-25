@@ -3789,6 +3789,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rates/Aaron_Freestyle.txt",
+      "hash": "6bac60cb8a605f6eb67b147245e41b3f3eef255f0c203fc13c1474494bd6a5c1",
+      "title": "Aaron_Freestyle",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "freestyle",
+        "snappy",
+        "juicy",
+        "sbang"
+      ],
+      "author": "Aaron",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.4/rates/DavideFPVFreeStyle.txt",
       "hash": "49d062988bc8fb428ec542d3649eda1f08b309edf773536cef317c958d893185",
       "title": "Davide FPV Rates for Freestyle with Cinematic Option",
